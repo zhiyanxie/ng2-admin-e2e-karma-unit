@@ -1,0 +1,3 @@
+      /*"main": "./src/main.browser.ts",*/
+
+    nothing but comment out the polyfiils.browser.ts the ENv
